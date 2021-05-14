@@ -1,0 +1,107 @@
+
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: whitesmoke;
+    color:black;
+}
+
+.navbar-brand {
+    margin-left: 12vw;
+}
+
+
+
+.navbar-nav {
+    
+    font-size: 2vw;
+    margin-left: 12vw;
+}
+
+
+
+.bg-light {
+    border:none;
+}
+
+.jumb-h1 {
+    font-size: 6vw;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.jumb-h2 {
+    font-size: 3vw;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.card-body-h1 {
+    font-size: 3vw;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 3vw;
+}
+
+.card-body-text {
+    font-size: 2vw;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 3vw;
+}
+
+.card-title {
+    font-size: 6vw;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.line
+{
+    border-left: 1px solid black;
+    height:20vw;
+    position:absolute;
+    left:50%;
+    margin-left: -3px;
+    
+}
+ 
+.contact-form {
+    border: 4px solid gainsboro;
+    padding: 3vw;
+    font-size: xx-large;
+}
+
+.form-margin {
+    margin-top:1vw;
+}
+
+.design {
+    border:none;
+    border-radius: 2%;
+    max-height: 6vw;
+}
+
+.btn {
+    font-size: 2vw;
+}
+
+.carousel-size {
+    height: 50vw;
+    text-align: center;
+}
+
+.carousel-img {
+    width:100%;
+    height:50vw;
+}
+
+.description {
+    font-size: 3vw;
+}
+
+.home-text-size {
+    font-size: 3vw;
+    text-shadow: 2px 2px 2px red;
+}
