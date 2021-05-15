@@ -26,15 +26,15 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/quotestock' exact component={Home} />
-        <Route path='/home'  component={Home} />
-        <Route path='/quote' component={Quote} />
-        <Route path='/smile' component={Smile} />
-        <Route path='/inspirational' component={Inspirational} />
-        <Route path='/positive' component={Positive} />
-        <Route path='/life' component={Life} />
-        <Route path='/love' component={love} />
-        <Route path='/emotional' component={Emotional} />
-        <Route path='/downQuotes' component={down} />
+        <Route path='/quotestock/home'  component={Home} />
+        <Route path='/quotestock/quote' component={Quote} />
+        <Route path='/quotestock/smile' component={Smile} />
+        <Route path='/quotestock/inspirational' component={Inspirational} />
+        <Route path='/quotestock/positive' component={Positive} />
+        <Route path='/quotestock/life' component={Life} />
+        <Route path='/quotestock/love' component={love} />
+        <Route path='/quotestock/emotional' component={Emotional} />
+        <Route path='/quotestock/downQuotes' component={down} />
       </Switch>
       
     </Router>

@@ -54,7 +54,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/smile"><h1 className="card-body-h1">Smile Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/smile"><h1 className="card-body-h1">Smile Quotes</h1></Link>
                                             
                                     </div>
                                 </div>
@@ -65,7 +65,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/emotional"><h1 className="card-body-h1">Emotional Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/emotional"><h1 className="card-body-h1">Emotional Quotes</h1></Link>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/inspirational"><h1 className="card-body-h1">Inspirational Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/inspirational"><h1 className="card-body-h1">Inspirational Quotes</h1></Link>
                                             
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/positive"><h1 className="card-body-h1">Positive Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/positive"><h1 className="card-body-h1">Positive Quotes</h1></Link>
                                             
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/life"><h1 className="card-body-h1">Life Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/life"><h1 className="card-body-h1">Life Quotes</h1></Link>
                                             
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@ class Home extends Component {
                                 <img className="img-fluid" src={image1} alt="" /> 
                                 <div className="card-img-overlay">
                                     <div className="card-body">
-                                    <Link className="text-decoration" to="/love"><h1 className="card-body-h1">Love Quotes</h1></Link>
+                                    <Link className="text-decoration" to="/quotestock/love"><h1 className="card-body-h1">Love Quotes</h1></Link>
                                             
                                     </div>
                                 </div>
